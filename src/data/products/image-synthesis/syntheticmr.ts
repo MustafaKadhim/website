@@ -55,7 +55,7 @@ export const SYNTHETICMR_PRODUCTS: ProductDetails[] = [
     market: {
       onMarketSince: "2018",
       distributionChannels: ["Direct sales", "Distribution partners"],
-      countriesPresent: 25,
+      countriesPresent: 0,
       payingCustomers: "Major hospitals and imaging centers globally",
       researchUsers: "Research institutions worldwide"
     },
